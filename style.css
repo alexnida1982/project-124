@@ -1,0 +1,23 @@
+canvas 
+{
+  border:5px solid white;
+  border-radius:20px;
+  box-shadow:5px 5px 5px grey;
+  margin-top: 160px; 
+}
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px rgb(38, 155, 9);
+}
+.heading_div
+{
+  float: none ;
+  background: rgb(54, 13, 165) ; 
+  padding: 10px;
+  border-radius: 20px; 
+  color: rgb(31, 21, 175);
+  box-shadow:5px 5px 5px rgb(46, 31, 184);
+}
